@@ -1,0 +1,49 @@
+[
+ {
+  "question": "What is the difference between Git and GitHub?",
+  "answerOptions": [
+   { "answer": "Git is a version control system, while GitHub is a web-based hosting service for Git repositories." },
+   {
+    "answer": "GitHub is a version control system, while Git is a web-based hosting service for GitHub repositories."
+   },
+   { "answer": "Git and GitHub are the same thing." },
+   { "answer": "None of the above", "isCorrect": true }
+  ]
+ },
+ {
+  "question": "What is the purpose of a CSS preprocessor?",
+  "answerOptions": [
+   { "answer": "To add interactivity to web pages." },
+   { "answer": "To create responsive web layouts." },
+   { "answer": "To compile CSS code written using a preprocessor language into regular CSS.", "isCorrect": true },
+   { "answer": "None of the above" }
+  ]
+ },
+ {
+  "question": "What is a closure in JavaScript?",
+  "answerOptions": [
+   { "answer": "A way to encapsulate data and behavior into a single entity." },
+   { "answer": "A function that is called when a button is clicked." },
+   { "answer": "An object that contains key-value pairs." },
+   { "answer": "A way to access a function's outer scope from within a nested function.", "isCorrect": true }
+  ]
+ },
+ {
+  "question": "What type of database is MongoDB?",
+  "answerOptions": [
+   { "answer": "Relational" },
+   { "answer": "NoSQL", "isCorrect": true },
+   { "answer": "Graph" },
+   { "answer": "Document-oriented" }
+  ]
+ },
+ {
+  "question": "What is the purpose of a Next.js framework?",
+  "answerOptions": [
+   { "answer": "Frontend" },
+   { "answer": "Backend" },
+   { "answer": "FullStack", "isCorrect": true },
+   { "answer": "None of the above" }
+  ]
+ }
+]
